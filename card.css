@@ -1,0 +1,21 @@
+.view{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 10px;
+    width: 315px;
+    height: 200px;
+    margin: 10px;
+    padding-left: 10px;
+}
+img{
+    width: 50px;
+    padding-top: 35px;
+    margin-top: 5px;
+}
+.number{
+    font-size: x-large;
+    font-weight: 400;
+}
+.name{
+    margin: 10px 0px;
+}
